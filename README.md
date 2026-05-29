@@ -32,6 +32,7 @@ Dashboard Preview
 ---
 
 Repository Structure
+
 /sql — All 20 SQL queries with comments and section headers
 /excel — Data cleaning notes and exploratory pivot tables
 /screenshots — Power BI dashboard page screenshots
