@@ -26,21 +26,15 @@ Key Findings
 - **Finding 2:** [Replace with your actual finding + number]  
 - **Finding 3:** [Replace with your actual finding + number]
 
-Dashboard Preview
-![Dashboard Screenshot](screenshots/dashboard_page1.png)
-
----
 
 Repository Structure
 
 /sql — All 20 SQL queries with comments and section headers
 
-/excel — Data cleaning notes and exploratory pivot tables
-
-/screenshots — Power BI dashboard page screenshots
+/screenshots — Power BI dashboard page screenshots and interactive file
 
 Skills Demonstrated
-- Data cleaning & quality auditing
+- Data cleaning
 - Exploratory data analysis
 - SQL aggregation, JOINs, subqueries, 
 - DAX measures and data modelling in Power BI
