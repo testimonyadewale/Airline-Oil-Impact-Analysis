@@ -35,7 +35,7 @@ Revenue order: North America $1,014,150M, Europe $682,520M, Middle East $438,968
 
 REPOSITORY STRUCTURE: 
 
-sql — All 20 SQL queries with comments and section headers
+sql: All 20 SQL queries with comments and section headers
 
 Power BI dashboard page screenshots and a 6-page power BI interactive file
 
